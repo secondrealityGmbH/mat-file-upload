@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "name": "mat-file-upload",
+  "name": "@secondrealitygmbh/mat-file-upload",
   "scripts": {
     "ng": "ng",
     "start": "ng serve demo",
@@ -53,5 +53,17 @@
     "ts-node": "~8.10.1",
     "tslint": "~6.1.2",
     "typescript": "3.8.3"
-  }
+  },
+  "description": "This tool is a simple & configurable file upload component for use with [Angular Material](https://material.angular.io/).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/secondrealityGmbH/mat-file-upload.git"
+  },
+  "author": "Frank Stuhec",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/secondrealityGmbH/mat-file-upload/issues"
+  },
+  "homepage": "https://github.com/secondrealityGmbH/mat-file-upload#readme"
 }
